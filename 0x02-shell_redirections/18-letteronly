@@ -1,0 +1,2 @@
+#!/bin/bash
+grep ^[[:alpha:]] /ec/ssh/sshd_config
