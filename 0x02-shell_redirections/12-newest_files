@@ -1,0 +1,2 @@
+#!/bin/bashn
+ls -1t | head -10
